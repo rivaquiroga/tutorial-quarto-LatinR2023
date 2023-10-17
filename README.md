@@ -11,12 +11,14 @@ Para poder seguir sin problema las actividades del tutorial, es necesario tener 
 ### Lo imprescindible
 
 - La última versión estable de [Quarto (1.3.450)](https://quarto.org/docs/get-started/). 
-- Una versión reciente de [R](https://cran.r-project.org/) (la más actual es 4.3.1)
+- Una versión reciente de [R](https://cran.r-project.org/) (la más actual es 4.3.1).
 - Una versión reciente de [RStudio](https://posit.co/download/rstudio-desktop/) (la más actual es 2023.09). Si bien es posible utilizar Quarto desde otros entornos de desarrollo como VS Code o desde un editor de texto, en el tutorial mostraremos las distintas opciones que nos entrega RStudio para trabajar con este formato.
-- Los siguientes paquetes (todos están disponibles en CRAN, es decir, se pueden instalar con la función `install.pacakges`): **tidyverse**, **gt** y **datos**.
+- Los siguientes paquetes (todos están disponibles en CRAN, es decir, se pueden instalar con la función `install.pacakges`): **here**, **tidyverse**, **gt** y **datos**.
 
 ### Lo opcional
 - Una cuenta en [Netlify](https://www.netlify.com/). Si bien es posible publicar un reporte en ese servicio sin crearse una cuenta, tenerla nos permite acceder a funcionalidades como editar la url de nuestro reporte o actualizar su contenido.
+
+### Más opcional aún
 - Si bien para las actividades que realizaremos durante el tutorial no es extrictamente necesario, para funcionalidades un poco más avanzadas de Quarto es útil saber cómo utilizar la línea de comandos (a la que a veces también se hace referencia como _terminal_, _bash_, _shell_, aunque no son exactamente lo mismo). Si usas Linux o Mac, ya tienes Bash instalado. Si usas una versión reciente de Windows, deberías tener Power Shell. Menciono esto acá como opcional, porque en un momento del tutorial usaré el terminal solo de forma demostrativa para ilustrar algunas funcionalidades que pueden seguir explorando en el futuro. 
   
 ### Solo si ya utilizas Git
@@ -42,6 +44,6 @@ El directorio de en que iremos guardando los materiales de la sesión tendrá cu
 
 ¡Pronto!
 
-## Luego del tutorial: recursos y materiales complementarios
+## Para el futuro: recursos y materiales complementarios
 
 ¡Pronto!
