@@ -70,6 +70,9 @@ El primero lo guardaremos en nuestro en la carpeta de código y los otros tres e
 
 Existen [25 temas listos](https://quarto.org/docs/output-formats/html-themes.html) que podemos elegir para darle estilo a nuestros documentos.
 
+#### Netlify Drop
+
+Con el servicio de [Netlify Drop](https://app.netlify.com/drop/) podemos publicar nuestro reporte en línea para compartirlo con otras personas.
 
 ## Para el futuro: recursos y materiales complementarios
 
