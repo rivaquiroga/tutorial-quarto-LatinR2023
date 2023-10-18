@@ -14,7 +14,7 @@ Para poder seguir sin problema las actividades del tutorial, es necesario tener 
 - Una versión reciente de [R](https://cran.r-project.org/) (la más actual es 4.3.1).
 - Una versión reciente de [RStudio](https://posit.co/download/rstudio-desktop/) (la más actual es 2023.09). Si bien es posible utilizar Quarto desde otros entornos de desarrollo como VS Code o desde un editor de texto, en el tutorial mostraremos las distintas opciones que nos entrega RStudio para trabajar con este formato.
 - Los siguientes paquetes (todos están disponibles en CRAN, es decir, se pueden instalar con la función `install.pacakges`): **here**, **tidyverse**, **gt** y **datos**.
-- Y más paquetes aún: **gghighlight**, **ggsci**.
+- Y algunos paquetes más: **gghighlight**, **ggsci**.
 
 ### Lo opcional
 - Una cuenta en [Netlify](https://www.netlify.com/). Si bien es posible publicar un reporte en ese servicio sin crearse una cuenta, tenerla nos permite acceder a funcionalidades como editar la url de nuestro reporte o actualizar su contenido.
@@ -43,8 +43,30 @@ El directorio de en que iremos guardando los materiales de la sesión tendrá cu
 
 ### Enlaces y otros materiales que utilizaremos durante la sesión
 
-¡Pronto!
+Durante la sesión descargaremos cuatro archivos que nos van a servir para ilustrar algunas funcionalidades de Quarto. A continuación encontrarás los enlaces de descarga:
+
+- 📄 un script de ejemplo: [01_procesamiento-datos.R](https://www.dropbox.com/scl/fi/1gduq3ayew0prshjehpb0/01_procesamiento-datos.R?rlkey=wkij0umzywopu4tgx1u4l3mlp&dl=0) 
+- 📄 un set de datos de ejemplo: [desarrollo-sudamerica.csv](https://www.dropbox.com/scl/fi/j6ulgn05xmh9dpv78bt6l/desarrollo-sudamerica.csv?rlkey=4s0jyh1q9819vi0rys922iqo9&dl=0)
+- 📄 los datos para la primera versión del reporte: [datos-reporte.csv](https://www.dropbox.com/scl/fi/hc2h0waaifcbv7vovb7g3/datos-reporte.csv?rlkey=phn9qw3j50e753l6vufmfwh6a&dl=0)
+- 📄 los datos para la segunda versión: [datos-reporte-actualizados.csv](https://www.dropbox.com/scl/fi/ibddb3jhuwja71kp57uy1/datos-reporte-actualizados.csv?rlkey=259uk0aodq0t5tzayoor3kv23&dl=0)
+
+El primero lo guardaremos en nuestro en la carpeta de código y los otros tres en la carpeta de datos.
+
+```
+📂 tutorial-quarto-latinr
+    |
+    |-- 📁 codigo
+        |-- 📄 01_procesamiento-datos.R 
+    |-- 📁 datos
+        |-- 📄 desarrollo-sudamerica.csv
+        |-- 📄 datos-reporte.csv
+        |-- 📄 datos-reporte-actualizados.csv
+    |-- 📁 figuras
+    |-- 📁 reportes
+    |-- 🔵 tutorial-quarto-latinr.Rproj
+```
+
 
 ## Para el futuro: recursos y materiales complementarios
 
-¡Pronto!
+Esta sección la completaremos a partir de las preguntas que vayan anotando en nuestro [documento compartido](https://docs.google.com/document/d/1aG-ssbPPIe3HryaVlW2-ZPgbY1k1kjJ1N-_yf8I5C8w/edit?usp=sharing).
