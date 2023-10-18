@@ -66,6 +66,10 @@ El primero lo guardaremos en nuestro en la carpeta de código y los otros tres e
     |-- 🔵 tutorial-quarto-latinr.Rproj
 ```
 
+#### Temas para documentos html
+
+Existen [25 temas listos](https://quarto.org/docs/output-formats/html-themes.html) que podemos elegir para darle estilo a nuestros documentos.
+
 
 ## Para el futuro: recursos y materiales complementarios
 
